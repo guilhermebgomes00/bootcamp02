@@ -36,7 +36,7 @@ Idosos, cuidadores, familiares e profissionais de saúde que necessitam de uma f
 
 1. Realize o clone do repositório:
    ```bash
-   git clone https:https://github.com/guilhermebgomes00/bootcamp02.git
+   git clone https://github.com/guilhermebgomes00/bootcamp02.git
    cd medicamentos_idosos
    ```
 2. Crie um ambiente virtual:
