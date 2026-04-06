@@ -103,7 +103,7 @@ Frequência (ex: 2x ao dia, 3x ao dia): 2x ao dia
 
 ## Autor
 
-Victor Santos Barcelos (Adaptado para Controle de Medicamentos)
+Guilherme Oliveira  (Adaptado para Controle de Medicamentos)
 
 ## Link do Repositório Público
 
