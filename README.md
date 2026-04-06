@@ -1,4 +1,4 @@
-# Controlador de Medicamentos para Idosos
++# Controlador de Medicamentos para Idosos
 
 ## Descrição do Problema
 
@@ -36,7 +36,7 @@ Idosos, cuidadores, familiares e profissionais de saúde que necessitam de uma f
 
 1. Realize o clone do repositório:
    ```bash
-   git clone https://github.com/barcelos00/bootcamp2.git
+   git clone https:https://github.com/guilhermebgomes00/bootcamp02.git
    cd medicamentos_idosos
    ```
 2. Crie um ambiente virtual:
@@ -103,7 +103,7 @@ Frequência (ex: 2x ao dia, 3x ao dia): 2x ao dia
 
 ## Autor
 
-Guilherme Oliveira  (Adaptado para Controle de Medicamentos)
+Guilherme Oliveira 
 
 ## Link do Repositório Público
 
